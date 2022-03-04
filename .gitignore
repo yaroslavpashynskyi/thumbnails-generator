@@ -173,3 +173,4 @@ config.py
 /handlers
 /.vscode
 colors.txt
+/results
